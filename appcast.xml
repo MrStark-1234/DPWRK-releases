@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/MrStark-1234/DPWRK-releases/main/DPWRK.dmg" length="25237129" type="application/octet-stream" sparkle:edSignature="L0DUxerJXsicaBCKUg7eRBV/TjSMz6zmHj4SiLxsS/3BN6c+F+n+BeSVh1uH4HTvjD81LQOks7U0FifsO3f7Bw=="/>
+            <enclosure url="https://raw.githubusercontent.com/MrStark-1234/DPWRK-releases/main/DPWRK.dmg" length="25236799" type="application/octet-stream" sparkle:edSignature="L0DUxerJXsicaBCKUg7eRBV/TjSMz6zmHj4SiLxsS/3BN6c+F+n+BeSVh1uH4HTvjD81LQOks7U0FifsO3f7Bw=="/>
         </item>
     </channel>
 </rss>
